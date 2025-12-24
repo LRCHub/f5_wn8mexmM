@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Feels",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-24T11:20:53.654946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Feels",
+      "artist": "Maren Morris",
+      "has_synced": false,
+      "path": "select/01_The_Feels_Maren_Morris.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Feels",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_The_Feels_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Feels (YVES V Remix)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_The_Feels_(YVES_V_Remix)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Feels",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/04_The_Feels_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All The Feels",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/05_All_The_Feels_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All the Feels",
+      "artist": "Fly By Midnight",
+      "has_synced": true,
+      "path": "select/06_All_the_Feels_Fly_By_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Feels",
+      "artist": "Ty Segall",
+      "has_synced": false,
+      "path": "select/07_The_Feels_Ty_Segall.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Feels (Instrumental)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/08_The_Feels_(Instrumental)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Feels (The Stereotypes Remix)",
+      "artist": "TWICE feat. The Stereotypes",
+      "has_synced": true,
+      "path": "select/09_The_Feels_(The_Stereotypes_Remix)_TWICE_feat._The_Stereotypes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Feels (The Stereotypes Remix)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_The_Feels_(The_Stereotypes_Remix)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Feels (feat. Alex Newell)",
+      "artist": "Cash Cash feat. Alex Newell",
+      "has_synced": true,
+      "path": "select/11_The_Feels_(feat._Alex_Newell)_Cash_Cash_feat._Alex_Newell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Feels (feat. Alex Newell)",
+      "artist": "Cash Cash, Alex Newell",
+      "has_synced": true,
+      "path": "select/12_The_Feels_(feat._Alex_Newell)_Cash_Cash,_Alex_Newell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Feels (Benny Benassi Remix Extended)",
+      "artist": "TWICE feat. Benny Benassi",
+      "has_synced": false,
+      "path": "select/13_The_Feels_(Benny_Benassi_Remix_Extended)_TWICE_feat._Benny_Benassi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Feels (Benny Benassi Remix Extended)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/14_The_Feels_(Benny_Benassi_Remix_Extended)_TWICE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Feels",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_The_Feels_TWICE.txt"
+    }
+  ]
+}
